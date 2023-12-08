@@ -1,0 +1,34 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(img/castle.jpg);
+    background-size: cover;
+}
+
+header {
+    background-color: orangered;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 30%;
+    border-radius: 15%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
